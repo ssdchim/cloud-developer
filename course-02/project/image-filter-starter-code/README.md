@@ -18,6 +18,7 @@ You'll need to create a new node server. Open a new terminal within the project 
 2. run the development server with `npm run dev`
 
 ### Create a new endpoint in the server.ts file
+New Endpoint: http://udagram-ak-project-dev.us-west-1.elasticbeanstalk.com/filteredimage?image_url=https://starwarsblog.starwars.com/wp-content/uploads/2020/02/the-clone-wars-returns-final-season-tall-A.jpg
 
 The starter code has a task for you to complete an endpoint in `./src/server.ts` which uses query parameter to download an image from a public URL, filter the image, and return the result.
 
